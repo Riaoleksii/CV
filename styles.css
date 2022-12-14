@@ -1,0 +1,142 @@
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Comic Sans MS', sans-serif;
+  color: #40514E;
+}
+
+h1 {
+  margin: 0 auto 0 auto;
+  font-family: 'Comic Sans MS', sans-serif;
+  font-size: 4rem;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Caveat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: 400;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Caveat', sans-serif;
+  font-weight: 200;
+  font-size: 2.0rem;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 10%;
+  margin: 100px auto;
+}
+
+.bottom-container {
+  background-color: #E4F9F5;
+  padding: 50px 0 20px
+}
+
+.top-cloud {
+  position: absolute;
+  right: 220px;
+  top: 50px;
+}
+
+.top-container {
+  background-color:#E4F9F5;
+  position: relative;
+  margin: 0;
+}
+
+.middle-container {
+  background-color: white;
+  margin: 100px 0;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+  botton: 300px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 50px auto;
+  text-align: left;
+  line-height: 1;
+}
+
+.computer {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.Other {
+    width: 25%;
+    float: right;
+    margin-right: 30px;
+}
+
+.intro {
+  width: 50%;
+  margin: auto;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 20px auto ;
+}
+
+.btn {
+  background: #2cdeeb;
+  background-image: -webkit-linear-gradient(top, #2cdeeb, #29a4ad);
+  background-image: -moz-linear-gradient(top, #2cdeeb, #29a4ad);
+  background-image: -ms-linear-gradient(top, #2cdeeb, #29a4ad);
+  background-image: -o-linear-gradient(top, #2cdeeb, #29a4ad);
+  background-image: linear-gradient(to bottom, #2cdeeb, #29a4ad);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Comic Sans MS', sans-serif;
+  font-size: 1em;
+  margin: 10px 5px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+}
+
+.copyright {
+  color: #66BFBF;
+  font-size: 0.75rem;
+  padding: 20px;
+}
